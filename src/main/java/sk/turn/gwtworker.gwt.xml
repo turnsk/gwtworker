@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<inherits name="com.google.gwt.core.Core" />
+	<inherits name="gwt.jelement.JElement"/>
+	<source path="gwtworker"/>
+	<define-linker name="worker" class="sk.turn.gwtworker.linker.WorkerLinker" />
+ </module>
