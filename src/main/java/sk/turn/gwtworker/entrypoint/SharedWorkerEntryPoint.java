@@ -1,4 +1,4 @@
-package sk.turn.gwtworker;
+package sk.turn.gwtworker.entrypoint;
 
 import com.google.gwt.core.client.EntryPoint;
 import gwt.jelement.workers.SharedWorkerGlobalScope;

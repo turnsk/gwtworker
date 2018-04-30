@@ -2,6 +2,7 @@
 <module rename-to="gwtworker">
 	<inherits name="com.google.gwt.core.Core" />
 	<inherits name="gwt.jelement.JElement"/>
-	<source path="gwtworker"/>
+	<source path="entrypoint"/>
+	<source path="linker"/>
 	<define-linker name="worker" class="sk.turn.gwtworker.linker.WorkerLinker" />
  </module>
