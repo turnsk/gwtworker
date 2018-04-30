@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module>
+<module rename-to="gwtworker">
 	<inherits name="com.google.gwt.core.Core" />
 	<inherits name="gwt.jelement.JElement"/>
 	<source path="gwtworker"/>
