@@ -18,7 +18,6 @@ $stats = function() {
 };
 $self = self;
 $wnd = self;
-window = self;
 $doc = self;
 $sessionId = null;
 

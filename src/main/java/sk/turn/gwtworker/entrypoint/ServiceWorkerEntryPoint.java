@@ -6,7 +6,7 @@ import gwt.jelement.serviceworkers.ServiceWorkerGlobalScope;
 public abstract class ServiceWorkerEntryPoint implements EntryPoint {
 
 	/**
-	 * Get {@link ServiceWorkerGlobalScope} for current shared worker
+	 * Get {@link ServiceWorkerGlobalScope} for current service worker
 	 */
 	public final native ServiceWorkerGlobalScope getScope() /*-{ return $self; }-*/;
 
